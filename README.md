@@ -27,7 +27,7 @@ This positional data enables the software to tailor the rendering for each eye.
 The following GIF shows a short snippet of what this software displays on the screen. When wearing the glasses, only one of the alternating renders is visible to each eye. The render is customized according to the viewer's position, which may appear skewed. However, in this snippet, the user is positioned in the upper left of the screen and will see the spere and teapot unskewed.
 
 ![GIF](https://github.com/SamanMohseni/3DGlasses/assets/51726090/7744ef42-34ef-4dc9-a212-29856dd44a45)
-*A short snippet of what the software displays on the screen.*
+*A short snippet of what the software displays on the screen (reduced frame rate).*
 
 ## Synchronizing Glasses with Software
 I've tried several synchronization ways, including USB-to-UART sync or faster USB communication and control through FPGAs. None of them were satisfying.
